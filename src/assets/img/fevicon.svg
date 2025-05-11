@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Shape -->
+  <rect width="64" height="64" rx="12" fill="#0f172a"/>
+  
+  <!-- Letter M - Correctly Styled -->
+  <path d="M14 16 L20 16 L25 32 L30 16 L36 16 L36 48 L30 48 L30 28 L26 40 L24 40 L20 28 L20 48 L14 48 L14 16 Z" fill="#60a5fa"/>
+  
+  <!-- Letter A - Stylized -->
+  <path d="M38 16 L50 48 L44 48 L42 42 L34 42 L32 48 L26 48 L38 16 Z M38 28 L36 34 L40 34 L38 28 Z" fill="#10b981"/>
+  
+
+</svg>
