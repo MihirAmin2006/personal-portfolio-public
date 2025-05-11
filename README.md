@@ -21,13 +21,13 @@ Clone this repo and install the dependencies:
 
 ```bash
 git clone https://github.com/MihirAmin2006/personal-portfolio-public.git
-cd react-portfolio-website
+cd personal-portfolio-public
 npm install
 ```
 
-### Step 2: Create your environment variables
+### Step 2: Change the environment variables
 
-Create a file named `.env` in the root folder with these variables:
+Open the file named `.env` in the root folder and change the links with the actual links:
 
 ```plaintext
 # Your social media links
