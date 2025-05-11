@@ -20,7 +20,7 @@ First, make sure you have Node.js installed (version 16 or newer).
 Clone this repo and install the dependencies:
 
 ```bash
-git clone https://github.com/MihirAmin2006/portfolio-website-public.git
+git clone https://github.com/MihirAmin2006/personal-portfolio-public.git
 cd react-portfolio-website
 npm install
 ```
