@@ -9,7 +9,6 @@ Hey there! 👋 This is a modern portfolio website template I built using React 
 * Fast loading times thanks to Vite
 * Contact form that actually works
 * Smooth animations and transitions
-* Dark theme support
 
 ## Setting Up Your Portfolio
 
